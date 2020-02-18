@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Tarefas1.dir/principal.c.o CMakeFiles/Tarefas1.dir/indicadores.c.o  -o Tarefas1 

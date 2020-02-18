@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joao/CLionProjects/Ficha02/Tarefas1/indicadores.h
+
+/home/joao/CLionProjects/Ficha02/Tarefas1/principal.c
+stdio.h
+-
+indicadores.h
+/home/joao/CLionProjects/Ficha02/Tarefas1/indicadores.h
+assert.h
+-
+

@@ -1,0 +1,1 @@
+int gera( int n);

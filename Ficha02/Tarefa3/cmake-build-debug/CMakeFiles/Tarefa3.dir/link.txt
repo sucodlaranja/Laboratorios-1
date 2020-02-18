@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Tarefa3.dir/main.c.o CMakeFiles/Tarefa3.dir/geradorvezes.c.o CMakeFiles/Tarefa3.dir/soma.c.o CMakeFiles/Tarefa3.dir/subtrair.c.o CMakeFiles/Tarefa3.dir/divisao.c.o  -o Tarefa3 

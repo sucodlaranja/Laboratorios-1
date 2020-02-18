@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joao/CLionProjects/Ficha02/Tarefa3/divisao.h
+
+/home/joao/CLionProjects/Ficha02/Tarefa3/geradorvezes.h
+
+/home/joao/CLionProjects/Ficha02/Tarefa3/main.c
+stdio.h
+-
+stdlib.h
+-
+geradorvezes.h
+/home/joao/CLionProjects/Ficha02/Tarefa3/geradorvezes.h
+soma.h
+/home/joao/CLionProjects/Ficha02/Tarefa3/soma.h
+subtrair.h
+/home/joao/CLionProjects/Ficha02/Tarefa3/subtrair.h
+divisao.h
+/home/joao/CLionProjects/Ficha02/Tarefa3/divisao.h
+
+/home/joao/CLionProjects/Ficha02/Tarefa3/soma.h
+
+/home/joao/CLionProjects/Ficha02/Tarefa3/subtrair.h
+
