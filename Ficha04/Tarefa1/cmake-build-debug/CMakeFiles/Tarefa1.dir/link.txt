@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Tarefa1.dir/main.c.o CMakeFiles/Tarefa1.dir/opcionais.c.o  -o Tarefa1 
